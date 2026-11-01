@@ -161,7 +161,7 @@ if checkInMenu() then
     bgImage.Size = UDim2.new(1, 0, 1, 0)
     bgImage.Position = UDim2.new(0, 0, 0, 0)
     bgImage.BackgroundTransparency = 1
-    bgImage.Image = "rbxassetid://103857318083299"
+    bgImage.Image = "rbxassetid://https://ibb.co/k7Df5BP"
     bgImage.ScaleType = Enum.ScaleType.Crop
     bgImage.ImageTransparency = 0.1
     bgImage.ZIndex = 1
