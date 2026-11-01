@@ -146,8 +146,8 @@ if checkInMenu() then
     main.Size = UDim2.new(0, 330, 0, 172)
     main.Position = UDim2.fromScale(0.5, 0.5)
     main.AnchorPoint = Vector2.new(0.5, 0.5)
-    main.BackgroundColor3 = Color3.fromRGB(7, 7, 7)
-    main.BackgroundTransparency = 1
+    main.BackgroundColor3 = Color3.fromRGB(5, 5, 5)
+    main.BackgroundTransparency = 0
     main.BorderSizePixel = 0
     main.ClipsDescendants = true
     main.Parent = screenGui
@@ -161,7 +161,7 @@ if checkInMenu() then
     bgImage.Size = UDim2.new(1, 0, 1, 0)
     bgImage.Position = UDim2.new(0, 0, 0, 0)
     bgImage.BackgroundTransparency = 1
-    bgImage.Image = "rbxassetid://https://ibb.co/k7Df5BP"
+    bgImage.Image = ""
     bgImage.ScaleType = Enum.ScaleType.Crop
     bgImage.ImageTransparency = 0.1
     bgImage.ZIndex = 1
@@ -188,7 +188,7 @@ if checkInMenu() then
     local mainStroke = Instance.new("UIStroke")
     mainStroke.Thickness = 4
     mainStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
-    mainStroke.Color = Color3.fromRGB(255, 0, 20)
+    mainStroke.Color = Color3.fromRGB(230, 0, 0)
     mainStroke.Parent = borderFrame
 
     local strokeGradient = Instance.new("UIGradient")
@@ -223,7 +223,7 @@ if checkInMenu() then
         btn.Text = txt
         btn.AutoButtonColor = false
         btn.ZIndex = 2
-        btn.BackgroundColor3 = Color3.fromRGB(12, 5, 5)
+        btn.BackgroundColor3 = Color3.fromRGB(10, 0, 0)
         btn.BackgroundTransparency = 0.72
         btn.Parent = main
 
@@ -266,7 +266,7 @@ if checkInMenu() then
         return btn
     end
 
-    local normalBtn = createModeButton("โหมดปกติ", 60, false)
+    local normalBtn = createModeButton("โหมดธรรมดา", 60, false)
     local godBtn    = createModeButton("โหมดพระเจ้า", 112, true)
 
     task.delay(0.2, function()
@@ -513,9 +513,9 @@ end)
 local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-    Title = "Sultaniqz",
+    Title = "𝗦𝗨𝗟𝗧𝗔𝗡𝗜𝗤𝗭",
     Icon = "rbxassetid://122488606489577",
-    Author = "[🔪] Block Spin",
+    Author = "[🦅]𝗕𝗟𝗢𝗖𝗞 𝗦𝗣𝗜𝗡",
     Folder = "TestHub",
     Size = UDim2.fromOffset(620, 500),
     Transparent = true,
@@ -540,7 +540,7 @@ Window:Tag({
 })
 
 Window:EditOpenButton({
-    Title = "Sultaniqz | Block Spin",
+    Title = "𝗦𝗨𝗟𝗧𝗔𝗡𝗜𝗤𝗭 : 𝗕𝗟𝗢𝗖𝗞 𝗦𝗣𝗜𝗡",
     CornerRadius = UDim.new(0, 16),
     StrokeThickness = 2,
     Color = ColorSequence.new(Color3.fromHex("#1a1a1a"), Color3.fromHex("#FF0000")),
