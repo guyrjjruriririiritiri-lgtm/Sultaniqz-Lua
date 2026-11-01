@@ -146,7 +146,7 @@ if checkInMenu() then
     main.Size = UDim2.new(0, 330, 0, 172)
     main.Position = UDim2.fromScale(0.5, 0.5)
     main.AnchorPoint = Vector2.new(0.5, 0.5)
-    main.BackgroundColor3 = Color3.fromRGB(10, 10, 12)
+    main.BackgroundColor3 = Color3.fromRGB(7, 7, 7)
     main.BackgroundTransparency = 1
     main.BorderSizePixel = 0
     main.ClipsDescendants = true
@@ -166,12 +166,12 @@ if checkInMenu() then
     bgImage.ImageTransparency = 0.1
     bgImage.ZIndex = 1
     bgImage.Parent = main
-    Instance.new("UICorner", bgImage).CornerRadius = UDim.new(0, 17)
+    Instance.new("UICorner", bgImage).CornerRadius = UDim.new(0, 30)
 
     local softVignette = Instance.new("Frame")
     softVignette.Size = UDim2.new(1, 0, 1, 0)
     softVignette.BackgroundTransparency = 0.75
-    softVignette.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    softVignette.BackgroundColor3 = Color3.fromRGB(12, 5, 5)
     softVignette.BorderSizePixel = 0
     softVignette.ZIndex = 1
     softVignette.Parent = main
@@ -188,7 +188,7 @@ if checkInMenu() then
     local mainStroke = Instance.new("UIStroke")
     mainStroke.Thickness = 4
     mainStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
-    mainStroke.Color = Color3.fromRGB(255, 255, 255)
+    mainStroke.Color = Color3.fromRGB(255, 0, 20)
     mainStroke.Parent = borderFrame
 
     local strokeGradient = Instance.new("UIGradient")
@@ -207,7 +207,7 @@ if checkInMenu() then
     title.Text = "Sultaniqz"
     title.Font = FONT
     title.TextSize = 22
-    title.TextColor3 = Color3.fromRGB(245, 245, 250)
+    title.TextColor3 = Color3.fromRGB(255, 255, 255)
     title.TextXAlignment = Enum.TextXAlignment.Center
     title.ZIndex = 2
     title.Parent = main
@@ -223,7 +223,7 @@ if checkInMenu() then
         btn.Text = txt
         btn.AutoButtonColor = false
         btn.ZIndex = 2
-        btn.BackgroundColor3 = Color3.fromRGB(15, 15, 18)
+        btn.BackgroundColor3 = Color3.fromRGB(12, 5, 5)
         btn.BackgroundTransparency = 0.72
         btn.Parent = main
 
