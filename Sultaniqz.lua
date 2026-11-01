@@ -1,6 +1,6 @@
 -- หากต้องการปิดสคริปให้พิม . ที่ด้านล่าง หากต้องการกลับมาใช้ได้ลบ . ออก --..
 
-local Players =…
+local Players =
 game:GetService("Players")
 local RunService = game:GetService("RunService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
