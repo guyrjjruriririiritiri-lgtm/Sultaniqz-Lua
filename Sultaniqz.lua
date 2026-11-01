@@ -515,7 +515,7 @@ local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footag
 local Window = WindUI:CreateWindow({
     Title = "SULTANIQZ",
     Icon = "rbxassetid://122488606489577",
-    Author = "[⚔️] BLOCK:SPIN ",
+    Author = "[⚔️] Block Spin ",
     Folder = "TestHub",
     Size = UDim2.fromOffset(620, 500),
     Transparent = true,
@@ -540,7 +540,7 @@ Window:Tag({
 })
 
 Window:EditOpenButton({
-    Title = "𝗦𝗨𝗟𝗧𝗔𝗡𝗜𝗤𝗭 : 𝗕𝗟𝗢𝗖𝗞 𝗦𝗣𝗜𝗡",
+    Title = "SULTANIQZ : BLOCK SPIN ",
     CornerRadius = UDim.new(0, 16),
     StrokeThickness = 2,
     Color = ColorSequence.new(Color3.fromHex("#1a1a1a"), Color3.fromHex("#FF0000")),
