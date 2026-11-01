@@ -204,7 +204,7 @@ if checkInMenu() then
     title.Size = UDim2.new(1, 0, 0, 32)
     title.Position = UDim2.new(0, 0, 0, 16)
     title.BackgroundTransparency = 1
-    title.Text = "Sultaniqz"
+    title.Text = "SULTANIQZ"
     title.Font = FONT
     title.TextSize = 22
     title.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -513,9 +513,9 @@ end)
 local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-    Title = "𝗦𝗨𝗟𝗧𝗔𝗡𝗜𝗤𝗭",
+    Title = "SULTANIQZ",
     Icon = "rbxassetid://122488606489577",
-    Author = "[🦅]𝗕𝗟𝗢𝗖𝗞 𝗦𝗣𝗜𝗡",
+    Author = "[⚔️] BLOCK:SPIN ",
     Folder = "TestHub",
     Size = UDim2.fromOffset(620, 500),
     Transparent = true,
