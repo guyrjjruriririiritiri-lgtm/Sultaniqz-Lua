@@ -6,6 +6,7 @@ local RunService = game:GetService("RunService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
+
 local HttpService = game:GetService("HttpService")
 local Lighting = game:GetService("Lighting")
 local LocalPlayer = Players.LocalPlayer
@@ -515,7 +516,7 @@ local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footag
 local Window = WindUI:CreateWindow({
     Title = "SULTANIQZ",
     Icon = "rbxassetid://122488606489577",
-    Author = "[⚔️] Block Spin ",
+    Author = "[🔪] Block Spin ",
     Folder = "TestHub",
     Size = UDim2.fromOffset(620, 500),
     Transparent = true,
@@ -540,7 +541,7 @@ Window:Tag({
 })
 
 Window:EditOpenButton({
-    Title = "SULTANIQZ : BLOCK SPIN ",
+    Title = "sultaniqz : Block spin ",
     CornerRadius = UDim.new(0, 16),
     StrokeThickness = 2,
     Color = ColorSequence.new(Color3.fromHex("#1a1a1a"), Color3.fromHex("#FF0000")),
