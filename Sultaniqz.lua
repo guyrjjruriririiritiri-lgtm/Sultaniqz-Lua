@@ -1,2 +1,296 @@
---[[ Obfuscated with https://xenoscripts.com/lua-obfuscator ]]
-return(function(...)local I={"1,.6R\"KIQau[\\n","1DN#uI/Ms@sd5Kkaoh","RDv==","1Qk(G,7;A";"1;)3aKPDXK$t\'CU";"1*k@)tVNnd(!Uf","R8tnHp++=";"R8fKu0l==";"13)X$jk:";"1@^(GQTs(TMM4`;","1h2-nE","1k6XH&@6C>e&q8C8*:<:","RbcvcwL2Z2MjI","RyYIJUrVm2Xk7ql==","RKQdh4jH=";"RMk+g";"1jX\"uNki7Ah@<n";"R0l==";"Rw/dmj3d4guEcWoP=","RX9zu";"1*LmpZl;#?;u%c&J*^","RBDQQYKnJAmlQDy6vci+wTZv=";"1S[<$";"1)7W;oS_2","1_(lLB+cL6!O>";"RqweOAv==";"RDMZBTwuo1l==","RX0zzcN13/syX4RgEgYjVLfww5Zal";"RLvR6eC/o5q==","1DN\\9";"RgtK0BZIUiq==","1S%E6cpGKh(J6;b*\"H:Ku";"Rj8kr+1Ip";"Rx5q+","1heRC8hk5YJ";"ROWpIjl==";"1XH7;f!KO","R2Zvz","R5DhcmjpWpFPxoqMatHmtY/VA0YKw1yb1r95QZQIEdBBctXJa30Dp";"RhAbuk8p8uq==","1M,Z@lbflK\\i5;OS&V";"R7ls+gi+=";"1L=k9";"R8ofu","1<\\$jCht\'1eB*tru>NF";"1D1n$B>oDd1";"RAGV0AdXR4FC20NVddpp=","RKxZA+uiKbUCMbyNLZ2WxIe==";"RUBXAGdP9UgGExZE=";"1%)b\"@I\'XO<$B";"15>E`";"1-s0G(CNJ.]BA4&Rq/g","1-JkHU3ja!","1DaTMn1MSPL";"RoY8yhTYyRNWe1q==","RTuM7f1wLcDY=";"1trC>_T*A9,","1Fni*","1.qFNe*a*","RbLR/Vl==";"10VI\"sN^X@o=O20a*0:Q9";"R0/dN0G5J4uZCKI0CtF0xWil=","1[HZ5qm%^A,QP";"RiZieiFWNzV/YQnAYtP6s2Cvcr3bIlv==","1c10#R";"1f>3*X;l!H8p=X$";"1Z%6:1WBZB","1rdDMGjMN";"RIQ9Ode==";"1GAaVV_Y9\'(:Ws/%";"R0wcIhs+F","RKFpsq1uMxl==";"RA5tK8195Uq==","R5AJg/2C5OEEd0PRHUIuOUe==";"1Xg\'+<B;";"1YR#4lZU";"RUC4G9tl=";"1Df2R";"1$I,O","1K.C]","REBvkmLlNFfH=";"1Da*OM7FEiXP_4@fmiP","RspvZiq==";"RgttOfIgMPq==";"RCrPMIDo53hL7aIJpd7wXYO/3OJLL/Vq=","1Fe*7.G0\"q*","Rpv==";"1SEY1.hEB9";"1gi(NnEhf","Re/5zWi8BKuILKj1JKe==","RTikOSyjIBe==","1k+9]";"RoRhBPq==";"RzYmz";"1GK4U#(\\";"1`7q\'+A8";"1>!ONN*^","RWfJhWbWhaa8Pxyst3e==","1f:=s#k#l/","RtxccGv==";"1+\\&*(iPD@f","1K;\'?\"3\\+2t;+T_t!KFKaOD<?O4\'oXSjZphn*bD","1L4eul,k%at_A^&(_:","Ro4v/IWXSGuLqv1RhnsP=","ROFLlcBq=","RWjINAq==","RgYrLEBBN","RfBwvOLKuKjPEOF46fe==";"1.>4:/Q]8n%/6;";"RHTfwnYxAFqMIITbaqVM=","ROj490D8vKD8+K7lLAe==";"Rl/73+RARdap=","RyTh8i2q=";"R1A9x";"RdIZc+JkKT/IkZCI+";"RH/dN4uk/+jVLKe==";"1=]k[?7M&E;hO!u()6","1VH7[[0:\"rcE5@9G-b9","1%]l)H=(HYhXUIW";"RhsnB","RRB76jl==","RpNS8xl==";"1d(c6,\\?UpMfmJ0S";"1C9VZ)OdM";"1T^jE=3IYg/F;";"RuLg6";"RLarQw7cdAx3p";"1$o/EdT2p2S";"Rfv6Y6ovo","1dPktEXq\'+.Uo";"13V^.FL]";"1<CaH&Tj:uTA3\\\\&";"1C2tG7$9Ck","1:%7gfK5iU]$U@","1r9_(6s\'?S","1,sHtX","1&L*)1<!Ee","1RcN-EKtdiK";"R10zvDbN=","RCLUO8SY=","1MmNTRT&@G";"RHQZiYB0FWY5EjQv6","Roq==","1XJKel8\"";"1=?Tjak$oSl";"RW4oNnVnqFxgv";"Rxqc90ttEkeCl","RueoVbq==","1+[\"XGI\\$p5","1/C*L-Go98s+]e\\\\o\'>Z";"1\"3KVl>\"Uk`","RgzEhgZH=","Riq==","RaDkkhR9=","1//n0fM`";"16?M+e1Z\\e)enVM8";"1egq0V";"RQA+IeIpTzzSMOYq/9e==","179B.XDTTT``G7O^l+m4a";"R1JZLOGYXTugJ","RMBY1Uq==","RQECoPMMOV98RVl==";"RuL57+v==";"RSkquZ5cSOwla2RZSfDN=";"1APfb)YW$h\'n/\';p5S";"1*7;kI.l9","1-iDlCuFQCo$RBU6)Zt";"ROw5jjIXeKLCBOdkX";"1rO$L,Ri0X`rsIH?,t*";"R95M1ha/3UcZO1lCj";"1q*iOO9W","RpKrY4sLp";"1nn#-g;K?=6OI4q\'PO0O?dKr*-/u\\";"R1tHNyv==";"1\"@sYE#<b/\'3h","RduY10QrV0w5vjFKb","RU/zql88P6rDN8bE=";"Rb8KYAq==","1mWYX,;lqEs;\\E","1fuWiqSotc2","R88qUsCmlIgCGL+H=";"1+ksigZ][","RAytZXDG9v+9=","1V/K=","1okNU0(`","1><c!%(`$7","RNKBh";"1gQ+t-.V-","RnfX/OYw=","1$f7.-MQbO,rrnEp-%!";"RKXOf3I5IF9U6";"RHDwYR9U7";"R6BEV6AN=";"Rms/s";"1q5KDOuF73gRn<3d*@.","RSZG0q8OKXIP=";"RFpJ7PS41xFF9IYdDs4MowLvRXKTwDv==";"RZnDlR0ktztCnzhWDVdTV";"1!nb#^*M\'a+ac]";"1\":VogXE&4";"1jA.%<\\#U/*","RLeCw";"1Z!Am";"1\\u[053]$S/";"R6HIxPWBvJQO=","1hJZmS,Wp";"1MK>VE)B&d$$!&>0CW","1n7","1%ZBmi!UP:[]fWJ5=0[AA>/5&";"1&B*","1XrVK,9T.41";"1=DK\\","15V","17`MWUetDK";"RVFjUhh1pixPB3Lp=","RtY4n4QdNd/RDWLdk","1FfbD:_)+S;Pl]3iPL9","RVuVEnVnBj1EgjfUspdSLLDM/LrycHFMV0qPCIIPz";"RtDq6n5CrY9M=","RH5PwuRN71NmQrP9=";"1X58U?;eW4";"1P&Ms1","1L(2f\"l,aA-$PU(j-!","RKIpVeBZeOFdsejNNHDw=";"1)\'9BR";"RWpZxejVNKYd2TGZwHv==";"R3Pu5","1-3L^%+hrnM","1NV$9m\\!ukd","R9JboEq==";"RxoUsHXxHeU2LmN4s";"1hPJr@RZ\\D203-Ggh&C4V&N9r:H>:!g1*.5^;YnWCNTc<@)_=,8V&,%0Ak?@8JG<Z!;fG","Rhg7Q+5VQ";"RF9o/lUhCAEH=","RGxiVtQQsYz8bC00CH7ZcHBP+9DLW/v==";"1i`","1\"^A1\\Go=,b+4Q";"R7bdD";"RXT7dbxuiQNKc55Wl8LBYhEDF1UzDWl==","1)PT&\"";"1CA\'U";"R92Bv","1Z])i]b(LE_";"1j(\'$","16g-D\'RPC";"1O1\\VQ&4o-^%u(","RXq==";"RugXj9LM=";"Rj5iX";"1uKpO-_\"Y0UlccJ<";"1R>>/0T/7","1M>Yd,M>!g.lHe0;nmM";"1S[ln`fan";"RAJX0BNLY4FZuK7XhAIe=";"1fK?NMAa>G\\l4pCLRUr[U","1$1(nIfuEY-mV<t=!h","18bj%W";"1OG@?=\"jWX";"RE/LKtk0J1e==";"1r5Jl[Flu1,*]F\"F";"RJYDReFJU+ALs3oWJIfz=","R238r","RGSZc6ixMQ8wNFe==","1o<#*+rd?,CT;","1YN.fXFQBLfV-`:ui^";"1+i[Ku,<CT";"1V%kKK","REkEUvxgYs8XPjGJcp28Px7xGGOXTK8H=","1B.:SdPHT","1uQ4t@*Q>XCG7TBRM3";"RLUMbWHw=","RUTOUZat0GNiBI+d4Lzazlq==";"RoJ+Q2gw=";"RK/dNAFdR","RbwKO1v==","Rp6oGH/O=","RHdwH0l==","Ru4gVXb+XhgYxie==";"1X:^rK-!","RfnCgHJ+/W7XcZu4NdpO=","R/YnzGpJ22i7xKhRsjTpfNmjW","1SU2/G+V<";"RUGjiNJ7C8vKPbkcnse==";"RuL5zKjE=","1!9Anf\"D)+`G@&d)s.eSVZbC>Y(`";"R6XNmO1miJICAILQiEjT8s3++Uy8I6l==","R17x4";"1E552^nf","1t9g@]`=J*lhCi";"R00r9d5dwqe==","RqeC2","Rstsfrl==";"1c;9G6d$Z8%mo66Rg^";"17gXL\"=?";"1-!","RnO/zil==","RWGrG47ZjjnZ8Yp5JdFe=";"1Lf]I$+q0hi7_D3,uo-";"19pA#?kS\"K:F5nZ";"1O3M+461\'","1!plO$(@!@!N0Ro`T+_E";"Rd2gI1vz66FrD";"1\\44A2Mq_4!","R/u+1cu70";"1+7u!e:q.>mdM;r";"RApKGYnKndBC0HI4Z","RSRNo++/MQk0Yez55kPlj","1TVXW";"1)AmnBcW";"16A\"nVd%\'8c\"Z/u)1IA+";"1lHRH(MGL\")M6Gp\\uW^","1uM\"\"N,%%u7!1G1DM0;","1bCGic4!\"\\N";"RWwPksRsXpjz9xv==";"R1/6R4bxFhroX","RxCcol/Qbx/nXorkWbEzQ84l8","1-CPhRu9;PhqjFOF";"RD+OMAWhmDYw=";"1SI,f$N.2C1:8e$C";"1S0)[_g;a&,e(S!\"cW","1D<MpD/68U?>;*dINgG99QBFldPF=sR";"RBHFWOVC7DyhcHyz=","R3r7acRoBYq==","RzMHN8ZjcBV+=";"Rla8Y5xjd0xdV4UKoSq==","RfhHcY6kW";"1\"Rr/hDl\'gN","RWQ5iKu9=","1K7uVt3#(&]tf";"1_s#b";"1WN+]SRt@I";"R0GCoKwKRH7ZNej1JKuZNWi8cKpZz+uZD","RC8LJmuM9Er97wqji","1rC$5","R+OguOMP=","1:k7/N_&h7oG7T?IM^";"R49u6H1ejoOkNx5yGzyPHIl==","RxTNLjv==";"1RKY,)lf/Zg-O+s8","14,lYu*!bD,";"RWR/NEq==";"1As9)HakMpE";"RK/LFZdeNKp5oYQ4z","ROiuCTBz=";"Rbe==","1>G#!mP5>GqTK`O9%u\"$6";"1K47/\'","1-N-+t[CWL@%YZHsKnm<\\K9];p3M4#Mf%]mQccR0^ES","R2Gb8PsN9yQw=";"Rd8bPqp4KWnX8qLLiaZE=","1Wg)*\'9UfO<","1k-\'WKo!3","1o#$+u*`u*$";"R4Momasbnvv6WXUOE";"1O\'L\'\\)Yd","Rr8AajxN=";"REZfIZSX/3kv4DwTKiGokjDboEbqJStqRWCUc5vBzgkqDHJRYkuLz","1\"73?DLPu@i=:","RwR4ZXRUZPqp=";"1k\'Jh:HhY%UK^@\'j<47.3O9";"16rig6jDe+:H8j1Bh0h\"$/!eS\'N+FOR@Gs0h&cn";"1XUC9M";"RG+6DudBNwl==","RJGjBa1Bf8sw=","R9MevQ7AzCpKrPYjC5aH=","RH5ho0iLlaAw=","RbjCQlnGFK4Y=","1?q,o!iEU!>a,hQgG#r1\'a^[.hg52Jf+\\MKcA_+(B;;gOY4FQQ87ZA_ZF;O/V%0M;Rnu^cr<^","1CT<+f7YKX;Os4A(gI/U`B:4a(uN)/";"15psY","RIujroOXzZftY8PP=";"1u-GREH0tYOdsQ#-sFHEa]7%2<EkV2]";"RarMRfQU+Wq==","1\\&jN&Z3A2ej5HJYRCj=(@V8=13EKYAUHMArt[e","RB818";"1[):44%U17$KjTZnCW";"RhivN1tsHCeT2UOEI0rne";"RTcp1pq==";"1>D\\\'A_r/V</^","1`V";"1s][\"j->","RPvUtHtnJ";"RBvf0rl==","RvEf9imaOafJy6jqYPx4A","R6CYYBErqddweCrt+l++=","R4Y0MfwKQWp4zANR9","R9stmahqzzbKYAMdzVGON/S2mqdcE";"1Jd\"QGkigs";"Rir0ssXX1Aq==","1LQ$52CeJm>L+=Ls_#$";"RHw8zWjr3OFOvOuRX";"1,+g;IC2-(KFP](#";"RmYIjIBE8IXhJ30O=","1=Ik,1L/3ke","1>JIegh;","RXEMXcv==","1g3Pf","1mF6$mm?q].YOuF";"RAckHyv==";"1n+[25STudb(%i5=GA>","Rlhnq";"R+jLZBB8NeiZg4idv";"1>I]K#>V","R32RONCim","R+N02WiKZ4GCNK/8uKe==","1X\"YBc4@o@Ad6+%D-^JM?YU","1d\'FZZk$_;75<X,=FmgE,<G,sKLTA";"1Q[RYs]@=","1PDdL3_-itP-O2q&,iK","1rU7d;!<00+8\"";"1r0i!7\"$B]6","RPpQ/rgfkEsl=","RC5B/9mAd0v==","RxkAI+SUWN0C5uv==";"RWaxpo+4O";"RSrjQ5Vl=";"1h3$tYJ@6)^`b*";"RAJblFnFQWGI4";"RUerHyY7MIa2Z/h0pVe==";"RKu86Wi9=";"1s[Hk_kFml3LT","11g\\f;dsu3,Y.\'&U";"1J6ATe>;rN";"RQHap5pq=";"1**CcUB&\\)TP2#.%%r","1S0nr<i1";"RNl==";"1s*EMP,$","1mJ#DnDk!Z";"13\\H;$U@`q","RhQ1x";"14e0L?","R7CxnIVb5+4P=";"R/w9NZSN=";"1a\"YLHi`";"1T0gX5","10+J0","RzYwBoqipldX7Yl==","RAE1J3XqYJRdEHRUnS+Au","1umq-M<\\";"1PRKo";"1XTD[,Gbp$","1[[o/Zi0>UTPb8aP","1<2Pg8CScTI","1Ga72W","RuR5h","1KX:oE\"LA7KGr","RCQV/9j37","R4IDW5t4vGUVpAspZMvN4","1BY\'O<j4XqkO`iC>V,lUa*=4","1\'ok.h";"RlVpJd27c0MhF6m+=","RD1p29gFftSv=","RY/dJ4QCsWl==";"Rf+9U","RN8o7JmCaqfuFPxgosM6RrPNzs0kquv==";"RLNlPkIE=";"Rz9R9fISk+1d0yPDvxlNRnBL5x8Ew8v==";"RlJCFEPq=","1W*rFu","RqNW7","RsU4i6rP=","1)5AhO+Bes\"Om5";"RNPajiRGy0v==","Rw/YTfUCPb++=","1U;lYAL$","RYiIAeLMEA7RLYiCe","1&+H","1F&K;e?Z/#s.)JobK-O;aY4@I?t:Uhcd!Pue+2)@s&R+D4S*B?cda8bj#pSFPjY2$","1ts:p\"_$+h[##[,PlV","10AFW\'W=mU:q?ch","R2Jx5EvnC2q==";"RAIEkFP2NTVJkqwt1sCoCwtvshsTZy0clQFR05Z8k8Hd8CpAhGBmmBBCYVPvkJozZ8oUzHMsf";"1P`6t","1XrQ#AC5stg","1k9\'Z","R+0oNjbgc";"RywT2EQunjCkkzj1rBBVXWvta9WyBLJe=";"1UuTr<MoZ.>","RK3z3gjjYNv==";"RelgxHmz=","RwtsHkgE=","1e-^C\'MYe]>(AFO<","1l7b%2gL3Oa";"1r8&<I[e``<jM";"1\\k_6Q,lN","RAYXCKYCGOw9EAYlL0/e=";"1-a;p","1h/c59O;<P","1P]5tFLWRE)Cp\">/","RKCIVTd0fKdpVYYI2Kl==","RolnVustugxO=";"1E4-1e/6KP6P<^HoiHSI1@+a&m";"R4QIhWQY=","RTuZgKuCwWi4o";"RX3vG6kP5";"RXPt6WZqMTYno3GTK3YfLL3RGrqmBTEdEMJG+";"1e(O8,NO+#GJVRhA..$N","1As8%Mc3S","RqEgcHUHZCg+mVv==";"1Q+Hf\")Q","R6VM5YX+ouq==";"1B:\\k!";"1O(*\'_l]1","1=oEo`.aMU+c=L","RfI7u8e==";"RmRBhR/mzhPBOtQ9L0Lz=","1$bm,";"RW7C3ACOEBdCoYjXx";"1$\\pm\"Bgi(a","R5Gf9","1-hZqk=KBc_Z:7i3(+j4O","1lWa5_K/J";"RUYvYCZMnjNO=","RwACPdQHViPS44QM=","RFLqgV294SvxN+Uv=","1ECPLS\"f#RMYU";"RcFjaTKqgBAY=";"RWL8+WJC1ZIIkdd01";"Rg3uKNqdn";"RLUz+nv==";"1nkfJ+\\t\\hha;!Q.tR\"Vc`Eo`oRs*YS=:Po8G&n]J4l%FPntJ&\\-0&Y9T4\\.#Wf*F;R@dY]q^;d4%9>p1TG.LC9h";"1SE[T\"u\\Mr\\3M";"RciYUwSiqCvQYFq==","RRRqGXJM=","1)O/]BCcD9@MUY5m","RqUV9";"1W&*#0","1um1\']r+%5Pnit$!)5Y","R2mNsKe==","RQjibXVZRgeuOnacx0oMPs+SGWxYo","RxrvRc9w=";"R2L+qkbeXx1Kf";"RBURSqq==";"1X@49";"RY1V3","RDWWsKDn8Ge==","1];-c<++_C","R4QeVB70QO/08eppVd/e=";"RX4GbVe==";"R0/W/";"RLzkXT4SalfiW";"1*E,\\b)a:_\"CbZoAr9","1j1m@=D<^klK9";"1NSm#ZZ*RrR9M","10fT$-dUI";"1L$EiB+qGX#";"RPTjaBhjY","RKH6ClXd04q==","R4CZ3AuCfACdjKjRc0uY=";"1)=ZdR58i6?dReAgVh","1Ys\'5MGbT-\"h3m\"Q+_s8`";"RvYBOql==","R0/dNYi0X4QY=","1rC,+!uU%StlfuF]C1h","R4n4++JYLAIdbBjr6Oe==";"1\\ll2,6pa(7j!Ya\'LRS6kOBES";"1La*0E3@kk=ji";"R3bZzb9G60HM=";"1U3f","1q/!D_R4(N`$9g";"R3zA4GJnoFiDBwXI3WOH=";"RgPU9","1iGY<&hLG";"1:CJVT*6j2u!*d[eqBf";"1k?";"1_G]huP!nN2_`s<l","1hjZuA";"1Qe!,HQ/u\",Hl","RQHUKr2WfsKCh";"RDVIx","RaMVr6MSPAsW/14Y=","REjMDxH2AWaYDTv==";"1tTN%i/$*Q3JcG[";"1N7gjd,f+3","1\"-MJC&)?B","1VQL0C]!3";"1@Ih`OR\"irM]Z\"?Q38dgr";"1);J/ZRMO]I)r<>#M1","RDE9bvi5N8y4nfkKbCe=="
+-- หากต้องการปิดสคริปให้พิม . ที่ด้านล่าง หากต้องการกลับมาใช้ได้ลบ . ออก --..
+
+local Players =
+game:GetService("Players")
+local RunService = game:GetService("RunService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local HttpService = game:GetService("HttpService")
+local Lighting = game:GetService("Lighting")
+local LocalPlayer = Players.LocalPlayer
+local Client = Players.LocalPlayer
+
+local PlayerGui = Client:WaitForChild("PlayerGui")
+local Connections = {}
+
+local ConfigFileName = "TestHub_Config.json"
+local DefaultConfig = {
+    WalkSpeed = false,
+    SpeedMultiplier = 1,
+    JumpPower = false,
+    InfStamina = false,
+    AntiDead = false,
+    AntiLock = false,
+    AntiRagdoll = false,
+    AntiAutoSit = false,
+    HideName = false,
+    AutoRespawn = false,
+    Snap = false,
+    SnapAmount = 10,
+    FlyCar = false,
+    FlyCarSpeed = 30,
+    CarRamAura = false,
+    CarSnap = false,
+    ShowFOV = false,
+    MultiShoot = false,
+    FireRateGun = 850,   
+    RecoilGun = 0,      
+    AccuracyGun = 100,   
+    AutomaticGun = false,  
+    AimMode = "โหมดยิงเซฟ",
+    FOVRadius = 150,
+    SkeletonPlayerVisual = false,
+    HealthPlayerVisual = false,
+    NamePlayerVisual = false,
+    DistancePlayerVisual = false,
+    InventoryPlayerVisual = false,
+    FireRateValue = 850,
+    SettingsApplied = false,
+    HoldFire = false,
+    NoRecoilAccuracy = false,
+}
+
+local function LoadConfig()
+    local cfg = {}
+    for k, v in pairs(DefaultConfig) do cfg[k] = v end
+    pcall(function()
+        if isfile and readfile and isfile(ConfigFileName) then
+            local decoded = HttpService:JSONDecode(readfile(ConfigFileName))
+            if type(decoded) == "table" then
+                for k, v in pairs(decoded) do cfg[k] = v end
+            end
+        end
+    end)
+    return cfg
+end
+
+getgenv().TestHubConfig = LoadConfig()
+local function c() return getgenv().TestHubConfig end
+
+local function SaveConfig()
+    pcall(function()
+        if writefile then
+            writefile(ConfigFileName, HttpService:JSONEncode(c()))
+        end
+    end)
+end
+
+local Done = false
+
+local function pressButton(guiObject)
+    if not guiObject then return end
+    pcall(function() guiObject:Activate() end)
+    pcall(function() firesignal(guiObject.MouseButton1Click) end)
+    pcall(function() firesignal(guiObject.Activated) end)
+end
+
+local CoreGui = game:GetService("CoreGui")
+local Workspace = game:GetService("Workspace")
+
+local Network
+pcall(function()
+    Network = require(ReplicatedStorage.Modules.Core.Net)
+end)
+
+local function checkInMenu()
+    local splashScreenGui = PlayerGui:FindFirstChild("SplashScreenGui")
+    if splashScreenGui and splashScreenGui.Enabled then
+        local frame = splashScreenGui:FindFirstChild("Frame")
+        local playButton = frame and frame:FindFirstChild("PlayButton")
+        if playButton and playButton.Visible then
+            return true
+        end
+    end
+    return Client:GetAttribute("InMenuCharacterCreator") or false
+end
+
+local function ApplySalmonBypass()
+    if getgenv then getgenv().identifyexecutor = nil end
+    if getfenv then getfenv().identifyexecutor = nil end
+
+    local Net = require(ReplicatedStorage.Modules.Core.Net)
+    local getFunc = debug.getupvalue or getupvalue
+    local setConst = debug.setconstant or setconstant
+
+    if getFunc and setConst and not _G.SalmonBypassed then
+        local func = getFunc(Net.get, 2)
+        if type(func) == "function" then
+            pcall(function()
+                setConst(func, 3, "Bypass")
+                setConst(func, 4, "Bypass")
+            end)
+        end
+        _G.SalmonBypassed = true
+    end
+end
+
+if checkInMenu() then
+    local FONT = Enum.Font.GothamBold
+
+    local blurEffect = Instance.new("DepthOfFieldEffect")
+    blurEffect.Name = "TestHub_DOF"
+    blurEffect.FarIntensity = 1.2
+    blurEffect.FocusDistance = 2
+    blurEffect.InFocusRadius = 1
+    blurEffect.Parent = Lighting
+
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "TestHub_Entry"
+    screenGui.ResetOnSpawn = false
+    screenGui.IgnoreGuiInset = true
+    screenGui.Parent = PlayerGui
+
+    local main = Instance.new("CanvasGroup")
+    main.Name = "MainFrame"
+    main.Size = UDim2.new(0, 330, 0, 172)
+    main.Position = UDim2.fromScale(0.5, 0.5)
+    main.AnchorPoint = Vector2.new(0.5, 0.5)
+    main.BackgroundColor3 = Color3.fromRGB(10, 10, 12)
+    main.BackgroundTransparency = 1
+    main.BorderSizePixel = 0
+    main.ClipsDescendants = true
+    main.Parent = screenGui
+
+    local uiScale = Instance.new("UIScale")
+    uiScale.Scale = 0
+    uiScale.Parent = main
+
+    local bgImage = Instance.new("ImageLabel")
+    bgImage.Name = "BackgroundImage"
+    bgImage.Size = UDim2.new(1, 0, 1, 0)
+    bgImage.Position = UDim2.new(0, 0, 0, 0)
+    bgImage.BackgroundTransparency = 1
+    bgImage.Image = "rbxassetid://103857318083299"
+    bgImage.ScaleType = Enum.ScaleType.Crop
+    bgImage.ImageTransparency = 0.1
+    bgImage.ZIndex = 1
+    bgImage.Parent = main
+    Instance.new("UICorner", bgImage).CornerRadius = UDim.new(0, 17)
+
+    local softVignette = Instance.new("Frame")
+    softVignette.Size = UDim2.new(1, 0, 1, 0)
+    softVignette.BackgroundTransparency = 0.75
+    softVignette.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    softVignette.BorderSizePixel = 0
+    softVignette.ZIndex = 1
+    softVignette.Parent = main
+    Instance.new("UICorner", softVignette).CornerRadius = UDim.new(0, 14)
+
+    local borderFrame = Instance.new("Frame")
+    borderFrame.Size = UDim2.new(1, -6, 1, -6)
+    borderFrame.Position = UDim2.new(0, 3, 0, 3)
+    borderFrame.BackgroundTransparency = 1
+    borderFrame.ZIndex = 10
+    borderFrame.Parent = main
+    Instance.new("UICorner", borderFrame).CornerRadius = UDim.new(0, 14)
+
+    local mainStroke = Instance.new("UIStroke")
+    mainStroke.Thickness = 4
+    mainStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+    mainStroke.Color = Color3.fromRGB(255, 255, 255)
+    mainStroke.Parent = borderFrame
+
+    local strokeGradient = Instance.new("UIGradient")
+    strokeGradient.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)),
+        ColorSequenceKeypoint.new(0.55, Color3.fromRGB(140, 140, 145)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(35, 35, 40))
+    })
+    strokeGradient.Rotation = 50
+    strokeGradient.Parent = mainStroke
+
+    local title = Instance.new("TextLabel")
+    title.Size = UDim2.new(1, 0, 0, 32)
+    title.Position = UDim2.new(0, 0, 0, 16)
+    title.BackgroundTransparency = 1
+    title.Text = "Sultaniqz"
+    title.Font = FONT
+    title.TextSize = 22
+    title.TextColor3 = Color3.fromRGB(245, 245, 250)
+    title.TextXAlignment = Enum.TextXAlignment.Center
+    title.ZIndex = 2
+    title.Parent = main
+
+    local function createModeButton(txt, yPos, isGodMode)
+        local btn = Instance.new("TextButton")
+        btn.Size = UDim2.new(0, 285, 0, 44)
+        btn.AnchorPoint = Vector2.new(0.5, 0.5)
+        btn.Position = UDim2.new(0.5, 0, 0, yPos + 22)
+        btn.Font = FONT
+        btn.TextSize = 14
+        btn.TextColor3 = Color3.fromRGB(255, 255, 255)
+        btn.Text = txt
+        btn.AutoButtonColor = false
+        btn.ZIndex = 2
+        btn.BackgroundColor3 = Color3.fromRGB(15, 15, 18)
+        btn.BackgroundTransparency = 0.72
+        btn.Parent = main
+
+        Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 9)
+
+        local btnStroke = Instance.new("UIStroke")
+        btnStroke.Thickness = 1
+        btnStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+        btnStroke.Parent = btn
+
+        if isGodMode then
+            btnStroke.Color = Color3.fromRGB(255, 255, 255)
+            btnStroke.Transparency = 0.4
+            local btnGradient = Instance.new("UIGradient")
+            btnGradient.Color = ColorSequence.new({
+                ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)),
+                ColorSequenceKeypoint.new(1, Color3.fromRGB(90, 90, 95))
+            })
+            btnGradient.Rotation = 45
+            btnGradient.Parent = btnStroke
+        else
+            btnStroke.Color = Color3.fromRGB(200, 200, 210)
+            btnStroke.Transparency = 0.68
+        end
+
+        btn.MouseEnter:Connect(function()
+            TweenService:Create(btn, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+                Size = UDim2.new(0, 295, 0, 48),
+                BackgroundTransparency = 0.5
+            }):Play()
+        end)
+
+        btn.MouseLeave:Connect(function()
+            TweenService:Create(btn, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+                Size = UDim2.new(0, 285, 0, 44),
+                BackgroundTransparency = 0.72
+            }):Play()
+        end)
+
+        return btn
+    end
+
+    local normalBtn = createModeButton("โหมดปกติ", 60, false)
+    local godBtn    = createModeButton("โหมดพระเจ้า", 112, true)
+
+    task.delay(0.2, function()
+        TweenService:Create(uiScale, TweenInfo.new(0.5, Enum.EasingStyle.Back, Enum.EasingDirection.Out), { Scale = 1 }):Play()
+    end)
+
+    local function destroyUI()
+        TweenService:Create(uiScale, TweenInfo.new(0.25, Enum.EasingStyle.Back, Enum.EasingDirection.In), { Scale = 0 }):Play()
+        if blurEffect then
+            TweenService:Create(blurEffect, TweenInfo.new(0.25), { FarIntensity = 0 }):Play()
+            task.delay(0.25, function() blurEffect:Destroy() end)
+        end
+        task.wait(0.3)
+        screenGui:Destroy()
+    end
+
+    local function StartFlow(isGodMode)
+        destroyUI()
+        task.spawn(function()
+            local Net = require(ReplicatedStorage.Modules.Core.Net)
+            ApplySalmonBypass()
+
+            if isGodMode then
+                local oldSend
+                oldSend = hookfunction(Net.send, function(...)
+                    local d = {...}
+                    if d[1] == "leave_character_creato
