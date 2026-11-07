@@ -294,8 +294,8 @@ if checkInMenu() then
                 local oldSend
                 oldSend = hookfunction(Net.send, function(...)
                     local d = {...}
-                    if d[1] == "leave_character_creato" then
-local Players =
+                    if d[1] == "leave_character_creato
+local Players =…
 game:GetService("Players")
 local RunService = game:GetService("RunService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
@@ -4487,3 +4487,5 @@ MiscTab:Toggle({
         end
     end
 })
+
+                                
